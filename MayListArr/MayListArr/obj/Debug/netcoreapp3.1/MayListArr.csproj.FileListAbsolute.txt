@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\MayListArr\MayListArr\bin\Debug\netcoreapp3.1\MayListArr.exe
+C:\Users\abbas\source\repos\MayListArr\MayListArr\bin\Debug\netcoreapp3.1\MayListArr.deps.json
+C:\Users\abbas\source\repos\MayListArr\MayListArr\bin\Debug\netcoreapp3.1\MayListArr.runtimeconfig.json
+C:\Users\abbas\source\repos\MayListArr\MayListArr\bin\Debug\netcoreapp3.1\MayListArr.runtimeconfig.dev.json
+C:\Users\abbas\source\repos\MayListArr\MayListArr\bin\Debug\netcoreapp3.1\MayListArr.dll
+C:\Users\abbas\source\repos\MayListArr\MayListArr\bin\Debug\netcoreapp3.1\MayListArr.pdb
+C:\Users\abbas\source\repos\MayListArr\MayListArr\obj\Debug\netcoreapp3.1\MayListArr.csproj.AssemblyReference.cache
+C:\Users\abbas\source\repos\MayListArr\MayListArr\obj\Debug\netcoreapp3.1\MayListArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\MayListArr\MayListArr\obj\Debug\netcoreapp3.1\MayListArr.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\MayListArr\MayListArr\obj\Debug\netcoreapp3.1\MayListArr.AssemblyInfo.cs
+C:\Users\abbas\source\repos\MayListArr\MayListArr\obj\Debug\netcoreapp3.1\MayListArr.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\MayListArr\MayListArr\obj\Debug\netcoreapp3.1\MayListArr.dll
+C:\Users\abbas\source\repos\MayListArr\MayListArr\obj\Debug\netcoreapp3.1\MayListArr.pdb
+C:\Users\abbas\source\repos\MayListArr\MayListArr\obj\Debug\netcoreapp3.1\MayListArr.genruntimeconfig.cache
